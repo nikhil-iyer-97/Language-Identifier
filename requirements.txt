@@ -1,0 +1,6 @@
+Python version:
+-Python3
+
+Libraries needed:
+-pandas
+-nltk
